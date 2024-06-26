@@ -6,12 +6,7 @@
 /*SECAO 1 */
 .secao1 {
   font-size: 20px;
-  color: white; /* Cor do texto */
-  text-shadow: 
-   -1px -1px 0 black,  
-    1px -1px 0 black,
-    -1px  1px 0 black,
-    1px  1px 0 black; 
+  color: rgb(151, 29, 29); /* Cor do texto */
 }
 
 .secao1 h2{
