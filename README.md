@@ -3,3 +3,5 @@
 ### Curso Técnico em Desenvolvimento de Sistemas
 ## Estudante: PREENCHER COM SEU NOME COMPLETO
 ### Profª: Vladismara Psych Martins
+
+Projeto agrinho desenvolvido pela estudante Larissa Procopiuk de Jesus, no Colégio Estadual Prof Reni Correia Gamper, Manoel Ribas, NRE Ivaiporã.
