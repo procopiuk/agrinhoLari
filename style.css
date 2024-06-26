@@ -7,6 +7,8 @@
 .secao1 {
   font-size: 20px;
   color: rgb(151, 29, 29); /* Cor do texto */
+  width: 70%;
+  border: solid blue 2px;
 }
 
 .secao1 h2{
