@@ -1,7 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
 :root {
   --verde-fundo: ;
@@ -12,24 +12,22 @@
   --link: #0a4804;
 }
 
-body{
 
-}
-
-section{
+section {
   font-size: 20px;
 }
-h1{
+
+h1 {
   text-align: center;
   font-size: 30px;
 }
-/*seções comuns ou seção 1*/
-.secao1{
-
+h1 {
+  margin-bottom: 10px; /* Adiciona uma margem embaixo do título */
 }
+
+/*seções comuns ou seção 1*/
+.secao1 {}
 
 
 /*rodapé*/
-.rodape{
-
-}
+.rodape {}
