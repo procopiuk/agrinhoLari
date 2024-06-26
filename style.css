@@ -22,7 +22,9 @@ h1 {
   font-size: 30px;
   margin-bottom: 60px; /* Adiciona uma margem embaixo do título */
 }
-
+ h2{
+   text-align: center;
+ }
 
 /*seções comuns ou seção 1*/
 .secao1 {}
