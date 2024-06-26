@@ -15,11 +15,10 @@
 body{
 
 }
-
-/*Cabeçalho / Header */
-.cabecalho{
-
+header{
+  text-align: center;
 }
+
 
 
 /*seções comuns ou seção 1*/
