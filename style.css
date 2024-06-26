@@ -3,8 +3,8 @@
   padding: 0;
 }
 
-
-.section1 {
+/*SECAO 1 */
+.secao1 {
   font-size: 20px;
   color: white; /* Cor do texto */
   text-shadow: 
@@ -13,6 +13,12 @@
     -1px  1px 0 black,
     1px  1px 0 black; 
 }
+
+.secao1 h2{
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 
 h1 {
   text-align: center;
@@ -24,10 +30,7 @@ h1 {
   -webkit-text-stroke: 1px black; /* Borda preta de 1 pixel para navegadores WebKit */
   text-stroke: 1px black; /* Borda preta de 1 pixel */
 }
- h2{
-   text-align: center;
-   margin-bottom: 25px;
- }
+
 
 
 /*seções comuns ou seção 1*/
