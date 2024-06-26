@@ -3,18 +3,15 @@
   padding: 0;
 }
 
-:root {
-  --verde-fundo: ;
-  --fonte-principal: "Lustria";
-  --verde-principal: ;
-  --azul-principal: ;
-  --verde-secundario: ;
-  --link: #0a4804;
-}
 
-
-section {
+.section1 {
   font-size: 20px;
+  color: white; /* Cor do texto */
+  text-shadow: 
+   -1px -1px 0 black,  
+    1px -1px 0 black,
+    -1px  1px 0 black,
+    1px  1px 0 black; 
 }
 
 h1 {
