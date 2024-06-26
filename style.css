@@ -27,6 +27,13 @@ h1 {
    text-align: center;
    margin-bottom: 25px;
  }
+ .texto-com-borda {
+  font-size: 36px; /* Tamanho da fonte */
+  color: rgb(0, 0, 0); /* Cor do texto */
+  -webkit-text-stroke: 1px black; /* Borda preta de 1 pixel para navegadores WebKit */
+  text-stroke: 1px black; /* Borda preta de 1 pixel */
+}
+
 
 /*seções comuns ou seção 1*/
 .secao1 {}
