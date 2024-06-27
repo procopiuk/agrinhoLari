@@ -8,6 +8,7 @@
   font-size: 20px;
   color: rgb(0, 0, 0); /* Cor do texto */
   width: 70%;
+  text-align: center;
 }
 
 .secao1 h2{
@@ -26,9 +27,7 @@ h1 {
   -webkit-text-stroke: 1px black; /* Borda preta de 1 pixel para navegadores WebKit */
   text-stroke: 1px black; /* Borda preta de 1 pixel */
 }
-section{
-  text-align: center;
-}
+
 
 
 /*seções comuns ou seção 1*/
