@@ -8,7 +8,6 @@
   font-size: 20px;
   color: rgb(0, 0, 0); /* Cor do texto */
   width: 70%;
-  text-align: center;
 }
 
 .secao1 h2{
@@ -18,7 +17,7 @@
 
 
 h1 {
-  text-align: center;
+  text-align: right;
   font-size: 30px;
   margin-bottom: 60px; /* Adiciona uma margem embaixo do título */
   margin: 30px;
