@@ -26,7 +26,9 @@ h1 {
   -webkit-text-stroke: 1px black; /* Borda preta de 1 pixel para navegadores WebKit */
   text-stroke: 1px black; /* Borda preta de 1 pixel */
 }
-
+body{
+  text-align: center;
+}
 
 
 /*seções comuns ou seção 1*/
