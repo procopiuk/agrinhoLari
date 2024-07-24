@@ -29,24 +29,41 @@ body{
 
 }
 
-
-
-
-.secao1 h2{
-  margin-bottom: 25px;
+.texto {
+  flex: 1;
+  /* Ocupa o espaço restante */
+  padding-right: 20px;
+  /* Espaçamento à direita para separar da imagem */
+  align-self: center;
+  padding-left: 2em;
 }
 
-
-h1 {
+.texto h1 {
+  line-height: 2em;
+  margin-bottom: 2em;
   text-align: center;
   font-size: 30px;
-  margin-bottom: 60px; /* Adiciona uma margem embaixo do título */
   margin: 30px;
   font-size: 36px; /* Tamanho da fonte */
   color: rgb(0, 0, 0); /* Cor do texto */
-  -webkit-text-stroke: 1px black; /* Borda preta de 1 pixel para navegadores WebKit */
-  text-stroke: 1px black; /* Borda preta de 1 pixel */
 }
+
+.texto p {
+  line-height: 2em;
+  margin-top: 1em;
+}
+
+.imagem {
+  flex: 1;  /* Ocupa o espaço restante */
+  text-align: center;  /* Centraliza a imagem horizontalmente */
+}
+
+.imagem img {
+  max-width: 100%;  /* Garante que a imagem não ultrapasse seu contêiner */
+  height: auto;  /* Mantém a proporção da imagem */
+  border-radius: 8px;  /* Borda arredondada para a imagem */
+}
+
 
 h3{
   text-align: center;
