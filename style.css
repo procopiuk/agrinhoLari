@@ -13,11 +13,12 @@ body{
 /*SECAO 1 */
 .secao1 {
   font-size: 20px;
-  color: rgb(194, 36, 36); /* Cor do texto */
+  color: rgb(0, 0, 0); /* Cor do texto */
   width: 70%;
   padding-left: 30px;
   padding-right: 30px;
   line-height: 1.5;
+  background-color: red;
 }
 
 .secao1 h2{
