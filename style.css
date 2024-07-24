@@ -11,15 +11,26 @@ body{
 }
 
 /*SECAO 1 */
+
 .secao1 {
+  max-width: 1200px;  /* Largura máxima da seção */
+  margin: 0 auto;  /* Centraliza a seção na página */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);  /* Sombra suave para destacar a seção */
+  border-radius: 5px;
+  display: flex;  /*flexbox para organizar os itens lado a lado */
+
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 2em;
   font-size: 20px;
   color: rgb(0, 0, 0); /* Cor do texto */
-  width: 70%;
-  padding-left: 30px;
-  padding-right: 30px;
+ 
   line-height: 1.5;
   background-color: red;
 }
+
+
+
 
 .secao1 h2{
   margin-bottom: 25px;
