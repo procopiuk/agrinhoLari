@@ -18,7 +18,7 @@ body{
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);  /* Sombra suave para destacar a seção */
   border-radius: 5px;
   display: flex;  /*flexbox para organizar os itens lado a lado */
-  background-color: #fff;
+  background-color: #684242;
   padding: 10px;
   margin-bottom: 2em;
   font-size: 20px;
