@@ -35,6 +35,9 @@ body{
   align-self: center;
   padding-left: 2em;
 }
+h1{
+  text-align: center;
+}
 
 .texto h2 {
   line-height: 2em;
