@@ -49,6 +49,9 @@ h1{
   font-size: 36px; /* Tamanho da fonte */
   color: rgb(0, 0, 0); /* Cor do texto */
 }
+.chimarrao{
+  text-align: right;
+}
 
 .texto p {
   line-height: 2em;
