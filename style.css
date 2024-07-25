@@ -50,7 +50,13 @@ h1{
   color: rgb(0, 0, 0); /* Cor do texto */
 }
 .chimarrao{
-  text-align:rightf;
+  text-align:right;
+}
+.ervamate{
+  text-align: right;
+}
+.colheita{
+  text-align: right;
 }
 
 .texto p {
